@@ -38,6 +38,14 @@ local commit = {
 }
 
 return {
+      { 'SirVer/ultisnips' },
+    { 'mlaursen/vim-react-snippets' },
+    { "Pocco81/AutoSave.nvim" },
+    {
+      'mattn/emmet-vim'
+    },
+    { "max397574/better-escape.nvim" },
+    { 'gosukiwi/vim-atom-dark' },
   -- Packer can manage itself as an optional plugin
   { "wbthomason/packer.nvim", commit = commit.packer },
   { "neovim/nvim-lspconfig", commit = commit.nvim_lspconfig },
