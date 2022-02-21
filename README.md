@@ -30,7 +30,7 @@ Make sure you have the release version of Neovim (0.6.1+).
 
 Linux:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/MuthulingamDeveloper/LunarVim/rolling/utils/installer/install.sh)
 ```
 
 Windows (Powershell):
